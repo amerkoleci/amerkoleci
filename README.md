@@ -2,13 +2,13 @@
 
 - 🔭 I’m currently working as senior software engineer using C#/VB .NET and .NET in general writing WMS software.
 
-I love open source and work on personal projects whether possible, I enjoy contributing to other projects and share opinions with other people.
+- :heart: I love open source and work on personal projects whether possible, I enjoy contributing to other projects and share opinions with other people.
 
-I like to write game engine code and explore the different graphics APIs out there (Direct3D12, Vulkan, Metal or OpenGL). Therefore, I have created several projects to abstract the graphics APIs to make it easier to do graphics programming, which is where my main focus is. I love learning and read about new rendering techniques and try to implement them. 
+- :star2: I like to write game engine code and explore the different graphics APIs out there (Direct3D12, Vulkan, Metal or OpenGL). Therefore, I have created several projects to abstract the graphics APIs to make it easier to do graphics programming, which is where my main focus is. I love learning and read about new rendering techniques and try to implement them. 
 
 [Alimer](https://github.com/amerkoleci/alimer) Is the personal game engine written in C++ where I put most of my time and where I plan to create full game engine experimenting next graphics API, physics, audio and editor stuff.
 
-[.NET Mathematics library](https://github.com/amerkoleci/Vortice.Mathematics) Cross platform high performance mathematics library
+[Vortice.Mathematics](https://github.com/amerkoleci/Vortice.Mathematics) Cross platform high performance mathematics library
 
 [Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) Net5 or NetStandard2.0 Direct3D11, Direct3D12, Direct2D1, XAudio, XInput bindings.
 [Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) High performance cross platform [Vulkan](https://www.khronos.org/vulkan/) .NET bindings.
