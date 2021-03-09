@@ -9,3 +9,8 @@
 - ⚡ Consider [SPONSORING](https://github.com/sponsors/amerkoleci) my github profile to help me out reach my goals sooner.
 
 If you are curious, I suggest you check out the following repositories:
+
+- [Alimer](https://github.com/amerkoleci/alimer) Is the personal game engine written in C++ where I put most of my time and where I plan to create full game engine experimenting next graphics API, physics, audio and editor stuff.
+- [Vortice.Mathematics](https://github.com/amerkoleci/Vortice.Mathematics) Cross platform high performance mathematics library
+- [Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) Net5 or NetStandard2.0 Direct3D11, Direct3D12, Direct2D1, XAudio, XInput bindings.
+- [Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) High performance cross platform [Vulkan](https://www.khronos.org/vulkan/) .NET bindings.
