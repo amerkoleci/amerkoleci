@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 My name is Amer Koleci
 
-<!--
-**amerkoleci/amerkoleci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as senior software engineer using C#/VB .NET and .NET in general writing WMS software.
 
-Here are some ideas to get you started:
+I love open source and work on personal projects whether possible, I enjoy contributing to other projects and share opinions with other people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to write game engine code and explore the different graphics APIs out there (Direct3D12, Vulkan, Metal or OpenGL). Therefore, I have created several projects to abstract the graphics APIs to make it easier to do graphics programming, which is where my main focus is. I love learning and read about new rendering techniques and try to implement them. 
+
+[Alimer](https://github.com/amerkoleci/alimer) Is the personal game engine written in C++ where I put most of my time and where I plan to create full game engine experimenting next graphics API, physics, audio and editor stuff.
+
+[.NET Mathematics library](https://github.com/amerkoleci/Vortice.Mathematics) Cross platform high performance mathematics library
+
+[Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) Net5 or NetStandard2.0 Direct3D11, Direct3D12, Direct2D1, XAudio, XInput bindings.
+[Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) High performance cross platform [Vulkan](https://www.khronos.org/vulkan/) .NET bindings.
+
+- 💬 If you have any question feel free to contact me and I will gladly reply.
+- 🤔 If you like to join my open source project feel free to do so but submitting PR or opening issues.
+- ⚡ Consider [SPONSORING](https://github.com/sponsors/amerkoleci) my github profile to help me out reach my goals sooner.
