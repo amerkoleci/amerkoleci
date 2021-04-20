@@ -1,5 +1,8 @@
 ### Hi there 👋 My name is Amer Koleci
 
+
+<img align="left" hspace="5" src="https://github-readme-stats.vercel.app/api?username=amerkoleci&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true">
+
 - 🔭 I’m currently working as senior software engineer using C#/VB .NET and .NET in general writing WMS software.
 
 - :heart: I love open source and work on personal projects whether possible, I enjoy contributing to other projects and share opinions with other people.
