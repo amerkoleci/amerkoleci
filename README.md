@@ -20,6 +20,7 @@ If you are curious, I suggest you check out the following repositories:
 - [Vortice.Mathematics](https://github.com/amerkoleci/Vortice.Mathematics) Cross platform high performance mathematics library.
 - [Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) NetStandard2.0 and .NET 5.0 Direct3D11, Direct3D12, Direct2D1, XAudio, XInput bindings.
 - [Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) High performance cross platform [Vulkan](https://www.khronos.org/vulkan/) .NET bindings.
+- [Vortice.SpirvCross](https://github.com/amerkoleci/Vortice.SpirvCross) SPIRV-Cross .NET bindings.
 - [Vortice](https://github.com/amerkoleci/vortice) Cross platform modern .NET game engine.
 
 <p align="center">
