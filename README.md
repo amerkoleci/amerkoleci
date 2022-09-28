@@ -17,7 +17,7 @@
 
 If you are curious, I suggest you check out the following repositories:
 
-- [Alimer](https://github.com/alimer-engine/alimer) Cross platform modern game engine.
+- [Alimer](https://github.com/amerkoleci/alimer) Cross platform modern game engine.
 - [Vortice.Mathematics](https://github.com/amerkoleci/Vortice.Mathematics) Cross platform high performance mathematics library.
 - [Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) netStandard2.0 and net6.0 bindings for DXGI, Direct3D9, Direct3D11, Direct3D12, WIC, DirectWrite, Direct2D1, XAudio, XInput, DirectComposition, DirectInput, MediaFoundation, UIAnimation, Fxc, Dxc, DirectStorage and DirectML.
 - [Vortice.Win32](https://github.com/amerkoleci/Vortice.Win32) Low level high performance netStandard2.0, net6.0 and net7.0 bindings for DXGI, Direct3D11, Direct3D12, WIC, DirectWrite, Direct2D1, XAudio, XInput.
