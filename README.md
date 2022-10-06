@@ -22,6 +22,7 @@ If you are curious, I suggest you check out the following repositories:
 - [Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) netStandard2.0 and net6.0 bindings for DXGI, Direct3D9, Direct3D11, Direct3D12, WIC, DirectWrite, Direct2D1, XAudio, XInput, DirectComposition, DirectInput, MediaFoundation, UIAnimation, Fxc, Dxc, DirectStorage and DirectML.
 - [Vortice.Win32](https://github.com/amerkoleci/Vortice.Win32) Low level high performance netStandard2.0, net6.0 and net7.0 bindings for DXGI, Direct3D11, Direct3D12, WIC, DirectWrite, Direct2D1, XAudio, XInput.
 - [Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) High performance cross platform .NET bindings for [Vulkan](https://www.khronos.org/vulkan/), [VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator), [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) and [shaderc](https://github.com/google/shaderc).
+- [JoltPhysicsSharp](https://github.com/amerkoleci/JoltPhysicsSharp) Cross platform [JoltPhysics](https://github.com/jrouwe/JoltPhysics) C# physics engine.
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerkoleci&theme=dark&langs_count=10&layout=compact")
