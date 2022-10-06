@@ -1,12 +1,26 @@
-### Hi there 👋
-
-### My name is Amer Koleci, my github id is `amerkoleci`
-
-#### I'm a self-taught, passionate software developer from Italy
+<h3 align="center">
+  <strong>Hey! I am Amer Koleci, my github id is `amerkoleci`</strong>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=amerkoleci&show_icons=true&theme=dark"/>
+    <strong>I'm a self-taught, passionate software developer from Italy</strong>
 </p>
+
+<p align='center'>
+	<a href="https://www.linkedin.com/in/amer-koleci-261a563a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+	<a href="https://twitter.com/AmerKoleci"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+<div class="container" align="center">
+        <img alt="Amer streak" width="430" src="https://github-readme-streak-stats.herokuapp.com?user=amerkoleci&theme=dark&hide_border=true"/>
+        <img alt="Amer top langs" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerkoleci&hide=scss,css,javascript,html&layout=compact&theme=dark">
+</div>
+
+<p>
+  <img alt="Amer Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amerkoleci&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+</p>
+
 
 - 🔭 I’m currently working as senior software engineer using C#/VB .NET and .NET in general writing WMS software.
 - :heart: I love open source and work on personal projects whether possible, I enjoy contributing to other projects and share opinions with other people.
@@ -23,7 +37,3 @@ If you are curious, I suggest you check out the following repositories:
 - [Vortice.Win32](https://github.com/amerkoleci/Vortice.Win32) Low level high performance netStandard2.0, net6.0 and net7.0 bindings for DXGI, Direct3D11, Direct3D12, WIC, DirectWrite, Direct2D1, XAudio, XInput.
 - [Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) High performance cross platform .NET bindings for [Vulkan](https://www.khronos.org/vulkan/), [VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator), [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) and [shaderc](https://github.com/google/shaderc).
 - [JoltPhysicsSharp](https://github.com/amerkoleci/JoltPhysicsSharp) Cross platform [JoltPhysics](https://github.com/jrouwe/JoltPhysics) C# physics engine.
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerkoleci&theme=dark&langs_count=10&layout=compact")
-</p>
