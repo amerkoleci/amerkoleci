@@ -36,3 +36,4 @@ If you are curious, I suggest you check out the following repositories:
 - [Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) High performance cross platform .NET bindings for [Vulkan](https://www.khronos.org/vulkan/), [VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator), [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) and [shaderc](https://github.com/google/shaderc).
 - [JoltPhysicsSharp](https://github.com/amerkoleci/JoltPhysicsSharp) Cross platform [JoltPhysics](https://github.com/jrouwe/JoltPhysics) C# physics engine.
 - [Alimer.Bindings.SDL](https://github.com/amerkoleci/Alimer.Bindings.SDL) Cross platform C# .NET bindings for **SDL3**
+- [Alimer.Bindings.WebGPU](https://github.com/amerkoleci/Alimer.Bindings.WebGPU) Cross platform .NET bindings for **WebGPU**
