@@ -17,8 +17,7 @@
         <img alt="Amer top langs" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerkoleci&hide=scss,css,javascript,html&layout=compact&theme=dark">
 </div>
 
-[![Amer's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amerkoleci&theme=react-dark)](https://github.com/amerkoleci/github-readme-activity-graph)
-
+[![Amer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amerkoleci&theme=react-dark)](https://github.com/amerkoleci/github-readme-activity-graph)
 
 - 🔭 I’m currently working as senior software engineer using C#/VB .NET and .NET in general writing WMS software.
 - :heart: I love open source and work on personal projects whether possible, I enjoy contributing to other projects and share opinions with other people.
