@@ -28,10 +28,10 @@
 
 If you are curious, I suggest you check out the following repositories:
 
-- [Alimer](https://github.com/amerkoleci/alimer) Cross-platform **.NET 7** C# 11 game engine.
+- [Alimer](https://github.com/amerkoleci/alimer) Cross-platform **.NET 8** C# 12 game engine.
 - [Vortice.Mathematics](https://github.com/amerkoleci/Vortice.Mathematics) Cross platform high performance mathematics library.
-- [Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) .NET 6 and .NET 7 bindings for DXGI, Direct3D9, Direct3D11, Direct3D12, WIC, DirectWrite, Direct2D1, XAudio, XInput, DirectComposition, DirectInput, MediaFoundation, UIAnimation, Fxc, Dxc, DirectStorage and DirectML.
-- [Vortice.Win32](https://github.com/amerkoleci/Vortice.Win32) Low level high performance netstandard2.0, .NET 6 and .NET 7 bindings for DXGI, Direct3D11, Direct3D12, WIC, DirectWrite, Direct2D1, XAudio, XInput.
+- [Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) .NET 7 and .NET 8 bindings for DXGI, Direct3D9, Direct3D11, Direct3D12, WIC, DirectWrite, Direct2D1, XAudio, XInput, DirectComposition, DirectInput, MediaFoundation, UIAnimation, Fxc, Dxc, DirectStorage and DirectML.
+- [Vortice.Win32](https://github.com/amerkoleci/Vortice.Win32) Low level high performance netstandard2.0, .NET 7 and .NET 8 bindings for DXGI, Direct3D11, Direct3D12, WIC, DirectWrite, Direct2D1, XAudio, XInput.
 - [Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) High performance cross platform .NET bindings for [Vulkan](https://www.khronos.org/vulkan/), [VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator), [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) and [shaderc](https://github.com/google/shaderc).
 - [JoltPhysicsSharp](https://github.com/amerkoleci/JoltPhysicsSharp) Cross platform [JoltPhysics](https://github.com/jrouwe/JoltPhysics) C# physics engine.
 - [Alimer.Bindings.SDL](https://github.com/amerkoleci/Alimer.Bindings.SDL) Cross platform C# .NET bindings for **SDL3**
