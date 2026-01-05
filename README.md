@@ -13,7 +13,7 @@
 </p>
 
 <div class="container" align="center">
-        <img alt="Amer streak" width="430" src="https://github-readme-streak-stats.herokuapp.com?user=amerkoleci&theme=dark&hide_border=true"/>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amerkoleci&theme=onedark" alt="GitHub Streak" /></a>
         <img alt="Amer top langs" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerkoleci&hide=scss,css,javascript,html&layout=compact&theme=dark">
 </div>
 
