@@ -12,10 +12,9 @@
 	<a href="https://twitter.com/AmerKoleci"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<div class="container" align="center">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amerkoleci&theme=onedark" alt="GitHub Streak" /></a>
-        <img alt="Amer top langs" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amerkoleci&hide=scss,css,javascript,html&layout=compact&theme=dark">
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=amerkoleci&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=amerkoleci&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amerkoleci&layout=compact&theme=radical)
 
 [![Amer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amerkoleci&theme=react-dark)](https://github.com/amerkoleci/github-readme-activity-graph)
 
